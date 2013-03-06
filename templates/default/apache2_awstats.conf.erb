@@ -1,0 +1,6 @@
+Alias <%= node['awstats']['config']['diricons'] %> <%= node['awstats']['icondir'] %>/
+ScriptAlias <%= node['awstats']['scriptalias'] %>/ <%= node['awstats']['cgidir'] %>/
+
+<Directory <%= node['awstats']['cgidir'] %>/>
+    DirectoryIndex awstats.pl
+</Directory>
