@@ -2,6 +2,7 @@ Description [ ![Codeship Status for TheSerapher/chef-awstats](https://www.codesh
 ===========
 
 Installs and configures awstats for Apache.
+
 Requirements
 ============
 
