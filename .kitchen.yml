@@ -29,4 +29,5 @@ suites:
   run_list:
   - recipe[up2date]
   - recipe[awstats]
+  - recipe[minitest-handler]
   attributes: {}
