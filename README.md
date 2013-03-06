@@ -1,4 +1,4 @@
-Description
+Description [ ![Codeship Status for TheSerapher/chef-awstats](https://www.codeship.io/projects/434832e0-6884-0130-7230-22000a8c4a68/status?branch=master)](https://www.codeship.io/projects/1790) 
 ===========
 
 Installs and configures awstats for Apache.

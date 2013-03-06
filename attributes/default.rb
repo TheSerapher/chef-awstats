@@ -18,7 +18,7 @@
 #
 
 # Reload apache on configuration change
-default['awstats']['reload_apache'] = false
+default['awstats']['reload_apache'] = true
 
 # Platform specific values for apache2 configuration
 case node['platform_family']
